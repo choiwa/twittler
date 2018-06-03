@@ -1,0 +1,36 @@
+.tweets {
+  width: 70%;
+  float: right;
+  /* background-color: yellow */
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 1em;
+}
+
+.tweet {
+  font-family: sans-serif;
+}
+
+.checkNewTweets {
+  width: 20%;
+  margin: 1em;
+  float: left;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 10%;
+  width: 100%
+}
+
+a {
+  text-decoration: none;
+  color: green;
+  font-weight: bold;
+}
+
+p {
+
+  font-weight: lighter;
+  font-size: 0.5em;
+}
